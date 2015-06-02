@@ -16,6 +16,7 @@ class DiagnosedHappinessViewController : HappinessViewController, UIPopoverPrese
             diagnosticHistory += [happiness]
         }
     }
+    
     private let defaults = NSUserDefaults.standardUserDefaults()
     var diagnosticHistory: [Int] {
         get { return defaults.objectForKey(History.DefaultsKey) as? [Int] ?? []}
@@ -26,6 +27,7 @@ class DiagnosedHappinessViewController : HappinessViewController, UIPopoverPrese
         static let SegueIdentifier = "Show Diagnostic History"
         static let DefaultsKey = "DiagnosedHappinessViewController.History"
     }
+    
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         if let identifier = segue.identifier {
             switch identifier {

@@ -14,6 +14,7 @@ class TextViewController: UIViewController {
             textView.text = text
         }
     }
+    
     var text: String = "234" {
         didSet{
             textView?.text = text

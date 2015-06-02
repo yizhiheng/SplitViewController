@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87B0D81C-BA6A-437C-BD80-4055F3DF6BFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Psychologist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>989F06B738E9F36D34CD901A5E4F3286BDD9ABFD</key>
+		<string>github.com:yizhiheng/SplitViewController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Psychologist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>989F06B738E9F36D34CD901A5E4F3286BDD9ABFD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yizhiheng/SplitViewController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>989F06B738E9F36D34CD901A5E4F3286BDD9ABFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>989F06B738E9F36D34CD901A5E4F3286BDD9ABFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Psychologist</string>
+		</dict>
+	</array>
+</dict>
+</plist>
